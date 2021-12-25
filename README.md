@@ -2,7 +2,7 @@
 -This project is a web-based tool that you may use to code HTML, CSS, and JavaScript.
 -Only html, css, and javascript may be executed by this web app tool.
 ## Screenshot
-![ss](img.png)
+![ss](screenshot.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
